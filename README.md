@@ -1,9 +1,9 @@
 # CopomAI · Claude Lab PUC-Rio 2026 · Case 2, Tradutor do Copom
 
 ## Equipe
-- Guilherme Fontes Celani
-- NOME_2
-- NOME_3
+- Guilherme Celani
+- Rodrigo Valente
+- Daniel Nobrega
 
 ## Links
 - Site: https://tradutor-copom.vercel.app
